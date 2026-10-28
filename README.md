@@ -6,6 +6,6 @@ Architecture and design documentation for signing source, build outputs, package
 
 | # | Document | Description |
 |---|---|---|
-| 01 | [Artifact Signing & Signature Enforcement Architecture](docs/01-artifact-signing-architecture.md) | Signing building blocks, on-prem / open-source / commercial / hybrid options, non-prod → prod promotion, Kubernetes / Windows / Linux enforcement, disconnected-from-cloud operation |
+| 01 | [Artifact Signing & Signature Enforcement Architecture](01-artifact-signing-architecture.md) | Signing building blocks, on-prem / open-source / commercial / hybrid options, non-prod → prod promotion, Kubernetes / Windows / Linux enforcement, disconnected-from-cloud operation |
 
 The end-to-end CI/CD pipeline architecture is covered in a separate document.
